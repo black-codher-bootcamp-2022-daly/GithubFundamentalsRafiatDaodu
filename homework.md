@@ -1,5 +1,6 @@
 # :mortar_board: **What I've Learned about Git & GitHub** :mortar_board:
 ### ***AKA I actually don't understand much and I'm slowly drowing*** :sob: :sob: :sob:
+
 ![This is an image of Patrick Star from SpongeBob SquarePants in the aftermath of trying to DIY. He has somehow nailed a plank of wood to his own head](https://miro.medium.com/max/960/0*JUgxZIHD07xqeOqG.png)
 
 # :page_with_curl: **A Very Short Section On What I Have Learned and What I Understand** :page_with_curl:
