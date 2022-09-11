@@ -1,13 +1,13 @@
 # :mortar_board: **What I've Learned about Git & GitHub** :mortar_board:
-###***AKA I actually don't understand much and I'm slowly drowing*** :sob: :sob: :sob:
-![This is an image of Patrick Star from SpongeBob SquarePants in the aftermath of trying to DIY. He has somehow nailed a plank of wood to his own head] (https://miro.medium.com/max/960/0*JUgxZIHD07xqeOqG.png)
+### ***AKA I actually don't understand much and I'm slowly drowing*** :sob: :sob: :sob:
+![This is an image of Patrick Star from SpongeBob SquarePants in the aftermath of trying to DIY. He has somehow nailed a plank of wood to his own head](https://miro.medium.com/max/960/0*JUgxZIHD07xqeOqG.png)
 
 # :page_with_curl: **A Very Short Section On What I Have Learned and What I Understand** :page_with_curl:
 ### ***Don't worry, this really won't be a long read***
 1. The difference between **Git**  *(a source control system that lets you track and manage changes to source code)* and **GitHub** *(a cloud-based hosting service that lets you manage Git repositories nd colloborate with others)*.
 2. What are repositories *(a project folder where work happenes)* and how to create them.
 3. How to clone repositories so that the duplicate *(including all data at that point in time - all versions of every file and folder for the project)* is synced to your local machine.
-4. Using markdown - the only think I understand and can comfortably execute.
+4. Using markdown - the only thing I thnk I understand and can comfortably execute.
 
 # :triangular_flag_on_post: **What I'm Still Confused About** :triangular_flag_on_post:
 ### ***AKA it's astonishing how I can't seem to grasp simple conceptsand excute***
