@@ -1,7 +1,7 @@
  # **Rafiat Daodu**
 
 ## **Bio**
-I am 38 year old Adverstising & Marketing graduate who has worked previously in fashion PR, events planning, corporate social responsibiity and is now working in commercial banking. I have no formal or commercial tech experience, however I had been self teaching via YouTube tutorials and online forums before joining the Black Codher Bootcamp.  I am looking to career change from working in retail banking to working in tech/ coding, so I am supper excited and grateful for the opportunity that Black Codher has given me.   
+I am 30-something year old South East London Adverstising & Marketing graduat. I have previously worked in fashion PR, events planning, corporate social responsibiity and I am now working in commercial banking. After 7 years in retail and commercial banking, I am looking to career change into the STEM industy. I have no formal or commercial tech experience, however I had been self teaching via YouTube tutorials and online forums before joining the Black Codher Bootcamp. I am supper excited and grateful for the opportunity that Black Codher has given me.  
 
 ## **Education**
 - **2005 Bournemouth University, Media School, Bournemouth Degree**: *BA (Hons) Advertising & Marketing Communication*
