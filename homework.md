@@ -21,4 +21,4 @@ In one word: **Everything**!!! I seem to understand (barely) the theoretical con
 Git and GitHub have been a struggle for me, especially as a person who usually grasps new ideas and skills quickly and usually exceptionally well. I've felt demoralised and honestly I have cried many times  during the first month of learning :laughing: :laughing: :laughing:. But I have fully accepted that during this bootcamp this will not  be the first or last time. In fact I guarantee that these feelings of lack of understanding and bewilderment will happen a lot and so I take heart in the quote by *Johann Wolfgang von Goethe*:
 > ***Everything is hard before it is easy***
 
-So the most important thing for me is to keep going. Keep learning. **Never give up! Never Surrender!** (***a little Easter Egg - if you know, you know***).
+So the most important thing for me is to keep going. Keep learning. **Never give up! Never Surrender!** (***a little Easter Egg :egg: - if you know, you know***).
