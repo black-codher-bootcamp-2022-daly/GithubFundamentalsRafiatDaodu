@@ -10,7 +10,7 @@
 4. Using markdown - the only thing I thnk I understand and can comfortably execute.
 
 # :triangular_flag_on_post: **What I'm Still Confused About** :triangular_flag_on_post:
-### ***AKA it's astonishing how I can't seem to grasp simple conceptsand excute***
+### ***AKA it's astonishing how I can't seem to grasp simple concepts and excute***
 In one word: **Everything**!!! I seem to understand (barely) the theoretical concepts, but alas when it comes to putting them into proactice, I really struggle to excute them well. For example:
 - How to easily find and open cloned repositories on my computer and in VS Code. :confused:	
 - The differences between cloning, forking and branches; how and when to use them. :grimacing:
